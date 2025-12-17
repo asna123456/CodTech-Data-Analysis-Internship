@@ -53,5 +53,5 @@ Developed an interactive Sales Performance Dashboard using Tableau to visualize 
 * Monthly Sales Trend: Observed seasonal peaks in sales, especially during the year-end periods.
 
 ### Files Included:
-* Tableau Workbook: `Superstore task 3.twbx`
-* Dashboard PDF: `Superstore task 3.pdf`
+* Tableau Workbook: https://github.com/asna123456/Codetech-Data-Analysis-Internship/blob/87571065cabac501fdcc0f52391faa9e606e7e14/Superstore%20task%203.twbx
+* Dashboard PDF: https://github.com/asna123456/Codetech-Data-Analysis-Internship/blob/87571065cabac501fdcc0f52391faa9e606e7e14/Superstore%20task%203.pdf
